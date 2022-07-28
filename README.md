@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Davethadev/Nft-preview-card.git
+- Live Site URL: https://davethadev.github.io/Nft-preview-card/
 
 ## My process
 I started with the html first and then added the styling
