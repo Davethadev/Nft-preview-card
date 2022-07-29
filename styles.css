@@ -72,7 +72,7 @@ body {
 }
 
 #icon-text1 {
-    color: white;
+    color: cyan;
     font-weight: bold;
 }
 
@@ -99,13 +99,8 @@ body {
     opacity: 0.1;
 }
 
-.attribution { 
-    font-size: 11px; 
-    text-align: center; 
-    position: absolute;
-    bottom: 0;
-}
-
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
-}
+/* @media(max-width: 760px) {
+    body {
+        overflow: hidden;
+    }
+} */
