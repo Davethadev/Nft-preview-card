@@ -99,8 +99,9 @@ body {
     opacity: 0.1;
 }
 
-/* @media(max-width: 760px) {
+@media(max-width: 760px) {
     body {
+        height: 100vh;
         overflow: hidden;
     }
-} */
+}
